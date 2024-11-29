@@ -1,0 +1,5 @@
+	Gupta, A., & Gupta, R. (2019). ALL Challenge dataset of ISBI 2019 [Data set]. The Cancer Imaging Archive.
+	Acevedo, Andrea; Merino, Anna; Alferez, Santiago; Molina, Ángel; Boldú, Laura; Rodellar, José (2020), “A dataset for microscopic peripheral blood cell images for development of automatic recognition systems”.
+	The American Society of Hematology. Available online: imagebank.hematology.org
+	Matek, C., Schwarz, S., Marr, C., & Spiekermann, K. (2019). A Single-cell Morphological Dataset of Leukocytes from AML Patients and Non-malignant Controls [Data set]. The Cancer Imaging Archive.
+	R. Free Data. Raabin Health Database. https://raabindata.com/free-data/#chronic-myelogenous-leukemia
